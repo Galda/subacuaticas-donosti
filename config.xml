@@ -25,6 +25,8 @@
 		<splash src="res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
 	</platform>
 	
+
+	<preference name="SplashScreenDelay" value="10000" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
