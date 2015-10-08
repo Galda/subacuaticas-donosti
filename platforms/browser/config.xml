@@ -10,6 +10,7 @@
     <content src="index.html" />
     <access origin="*" />
     <icon src="res/icon.png" />
+    <preference name="SplashScreenDelay" value="10000" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
